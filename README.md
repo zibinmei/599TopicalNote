@@ -38,7 +38,11 @@ yarn run ios
 ``` markdown
 react-native init <name of your project>
 ```
-7. cd into folder and run
+
+7. Setup Xcode
+![](step/7.png)
+
+8. cd into folder and run
 ``` markdown
 cd <into your folder here>
 react-native run-ios
