@@ -42,8 +42,8 @@ react-native init <name of your project>
 7. Setup Xcode
 ![](https://github.com/zibinmei/599TopicalNote/blob/master/step7.png)
 
-8. cd into folder and run
+8. cd into project folder and run
 ``` markdown
-cd <into your folder here>
+cd <into your project folder here>
 react-native run-ios
 ```
