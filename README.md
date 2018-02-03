@@ -40,7 +40,7 @@ react-native init <name of your project>
 ```
 
 7. Setup Xcode
-![](step/7.png)
+![](https://github.com/zibinmei/599TopicalNote/blob/master/step7.png)
 
 8. cd into folder and run
 ``` markdown
