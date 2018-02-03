@@ -22,7 +22,7 @@ brew install flow
 ``` markdown
 brew install node
 ```
-4. Install latest Node and React Native
+4. Install latest React Native
 
 ``` markdown
 npm install -g react-native-cli
@@ -37,4 +37,9 @@ yarn run ios
 6. Make a new project
 ``` markdown
 react-native init <name of your project>
+```
+7. cd into folder and run
+``` markdown
+cd <into your folder here>
+react-native run-ios
 ```
