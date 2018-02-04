@@ -54,3 +54,7 @@ For the tab bar use [this](https://facebook.github.io/react-native/docs/navigati
 ``` markdown
 npm install --save react-navigation
 ```
+[Components, Props and State](https://facebook.github.io/react-vr/docs/components-props-and-state.html)
+
+[List View](https://facebook.github.io/react-native/docs/listview.html)
+
