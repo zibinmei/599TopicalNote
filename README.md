@@ -47,3 +47,10 @@ react-native init <name of your project>
 cd <into your project folder here>
 react-native run-ios
 ```
+Extra Resources
+---------------
+
+For the tab bar use [this](https://facebook.github.io/react-native/docs/navigation.html)
+``` markdown
+npm install --save react-navigation
+```
