@@ -58,3 +58,4 @@ npm install --save react-navigation
 
 [List View](https://facebook.github.io/react-native/docs/listview.html)
 
+[Existing App to React Native](https://facebook.github.io/react-native/docs/integration-with-existing-apps.html)
