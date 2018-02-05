@@ -28,21 +28,15 @@ brew install node
 npm install -g react-native-cli
 ```
 
-5. Download and install Yarn (Yarn iOS)
-``` markdown
-yarn install
-yarn run ios
-```
-
-6. Make a new project
+5. Make a new project
 ``` markdown
 react-native init <name of your project>
 ```
 
-7. Setup Xcode
+6. Setup Xcode
 ![](https://github.com/zibinmei/599TopicalNote/blob/master/step7.png)
 
-8. cd into project folder and run
+7. cd into project folder and run
 ``` markdown
 cd <into your project folder here>
 react-native run-ios
